@@ -1,7 +1,7 @@
 ## CS2600 Challenge
 #### Readme Page 
 
-[Go to next page](./blob/master/Markdown2.md)  
+[Go to next page](https://github.com/johnpjolley/CS2600/blob/master/README.md)  
 [Go to ESPN](http://www.espn.com/)
 
 >Block Quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae augue quis velit faucibus egestas. Duis ac suscipit velit. Pellentesque vel elit in lorem lacinia cursus. Vivamus porta sodales mi vel imperdiet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent condimentum et libero sed accumsan. Etiam a posuere dui. Duis aliquet ipsum diam, et vulputate odio iaculis sed. Integer ac mi mollis, mollis felis nec, vestibulum urna. Proin at mi quis tellus lacinia imperdiet.  
